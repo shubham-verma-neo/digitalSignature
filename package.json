@@ -1,0 +1,21 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "main": "sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-signpdf": "^1.5.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-signer": "^1.1.4",
+    "pdfjs-lib": "^0.0.149",
+    "wkhtmltopdf": "^0.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
